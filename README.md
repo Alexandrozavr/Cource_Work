@@ -3,5 +3,7 @@
 
 
 БД: DBRepository.cs (работа с БД), SQLiteProvider.cs(Создание БД)
+
 ASP.Net: DBController.cs
+
 В папке видео. преза была для защиты. Без пояснений смысла не имеет
